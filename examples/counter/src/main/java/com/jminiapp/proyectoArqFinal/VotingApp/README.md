@@ -19,3 +19,4 @@ It implements a flexible voting system that allows the user to manage candidates
 
 
 
+#### Author: Sofia-RRly
