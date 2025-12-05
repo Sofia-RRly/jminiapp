@@ -17,9 +17,5 @@ It implements a flexible voting system that allows the user to manage candidates
 | Percentage calculation | Shows distribution of votes for each candidate |
 | Reset system | Restores initial state with 3 default candidates |
 
----
 
-## How to run
-
-1. Compile the project
 
